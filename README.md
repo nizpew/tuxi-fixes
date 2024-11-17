@@ -17,6 +17,14 @@ Tuxi is an excellent addition for anyone looking to optimize their web searches 
 
 
 
+## installing tuxi itself and its deps
+    
+    $ sudo curl -sL "https://raw.githubusercontent.com/Bugswriter/tuxi/main/tuxi" -o /usr/local/bin/tuxi
+    $ sudo chmod +x /usr/local/bin/tuxi
+    more info in https://github.com/Bugswriter/tuxi
+
+
+
 ## stuff
 
     #short response
