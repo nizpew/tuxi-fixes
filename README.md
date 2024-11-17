@@ -25,10 +25,23 @@ Tuxi is an excellent addition for anyone looking to optimize their web searches 
 
 
 
-## stuff
+## real stuff.
 
     #short response
     ~/tuxi/tuxi -s "which is the most big animal on earth" > /dev/null 2>&1 ; cat /home/$USER/.cache/tuxi/$(ls -lt created /home/$USER/.cache/tuxi/ | awk '{print $7}'| tac | sed -n '1p') | sed -n 's/.*<div class="BNeawe s3v9rd AP7Wnd">\([^<]*\)<\/div>.*/\1/p'
     
     #not short response
     cat /home/$USER/.cache/tuxi/$(ls -lt created /home/$USER/.cache/tuxi/ | awk '{print $7}'| tac | sed -n '1p') | awk -F'x3' '{for(i=2; i<NF;i+=2) print $i}' | sed -n '/^e[^/]/p' | sed 's/^.\(.*\).$/\1/' | awk 'NF {print; last=$0; next} {if (last) print ""; last=""}'  | sed -n '/More results/{n; p; n; p;}'
+
+
+## expecteds responses 
+
+    Far bigger than any dinosaur, the blue whale is the largest known animal to have ever lived. An adult blue whale can grow to a massive 30m ...
+
+and
+
+    a figure that in each different drawing hovered between woman and man, animal and man, while at the same time remaining gleefully true to itself
+    
+    microscopic worms
+
+    
