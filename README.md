@@ -39,9 +39,10 @@ Tuxi is an excellent addition for anyone looking to optimize their web searches 
     Far bigger than any dinosaur, the blue whale is the largest known animal to have ever lived. An adult blue whale can grow to a massive 30m ...
 
 and
-
-    a figure that in each different drawing hovered between woman and man, animal and man, while at the same time remaining gleefully true to itself
     
-    microscopic worms
+    blue whale
+    
+    120 tons (109 metric tons)
+    
 
     
