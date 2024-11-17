@@ -25,7 +25,7 @@ Tuxi is an excellent addition for anyone looking to optimize their web searches 
 
 
 
-## real stuff.
+## real stuff. you can save it as alias or local bins , you rule
 
     #short response
     ~/tuxi/tuxi -s "which is the most big animal on earth" > /dev/null 2>&1 ; cat /home/$USER/.cache/tuxi/$(ls -lt created /home/$USER/.cache/tuxi/ | awk '{print $7}'| tac | sed -n '1p') | sed -n 's/.*<div class="BNeawe s3v9rd AP7Wnd">\([^<]*\)<\/div>.*/\1/p'
